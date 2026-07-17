@@ -28,7 +28,7 @@
 &nbsp;&nbsp;
 <img src="https://images.weserv.nl/?url=images.credly.com/images/e3d0d18a-edd0-49b3-bad9-f09fffaa29e3/20-14376-SPLK-Certification-Badge-Youracclaim.com-101_Splunk-Core-Certified-Power-User.png&filt=greyscale" height="56" title="Splunk Power User - roadmap">
 &nbsp;&nbsp;
-<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/ecthpv3.png&filt=greyscale" height="56" title="eCTHPv3 - roadmap">
+<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/AmrDilli/AmrDilli/main/assets/ecthpv3.png&filt=greyscale" height="56" title="eCTHPv3 - roadmap">
 &nbsp;&nbsp;
 <img src="https://images.weserv.nl/?url=images.credly.com/images/e78adea1-f60b-4991-b5d5-3427140c7c1d/image.png&filt=greyscale" height="56" title="HTB CDSA - roadmap">
 
