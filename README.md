@@ -18,20 +18,27 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Security+-36F9C1?style=flat-square&logoColor=black&labelColor=36F9C1" height="30">
-<img src="https://img.shields.io/badge/CySA+-36F9C1?style=flat-square&logoColor=black&labelColor=36F9C1" height="30">
-<img src="https://img.shields.io/badge/eCIR-in_progress-1a1a1a?style=flat-square&color=36F9C1&labelColor=0d0d0d" height="30">
+<img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" height="72" title="Security+">
+&nbsp;&nbsp;
+<img src="https://images.credly.com/images/dcd99b5b-da24-40a6-9364-62126d590c37/blob" height="72" title="CySA+">
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/eCIR-in__progress-36F9C1?style=flat-square&labelColor=0d0d0d" height="26" title="eCIR - in progress">
 
-&nbsp;&nbsp;|&nbsp;&nbsp;
+<br><br>
 
-<img src="https://img.shields.io/badge/CCNA-2b2b2b?style=flat-square&logo=cisco&logoColor=808080" height="30">
-<img src="https://img.shields.io/badge/Splunk_Power_User-2b2b2b?style=flat-square&logo=splunk&logoColor=808080" height="30">
-<img src="https://img.shields.io/badge/eCTHPv3-2b2b2b?style=flat-square&logoColor=808080" height="30">
-<img src="https://img.shields.io/badge/HTB_CDSA-2b2b2b?style=flat-square&logo=hackthebox&logoColor=808080" height="30">
+<sub>─────────────  roadmap  ─────────────</sub>
+
+<br><br>
+
+<img src="https://images.weserv.nl/?url=images.credly.com/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png&filt=greyscale" height="60" title="CCNA">
+&nbsp;&nbsp;
+<img src="https://images.weserv.nl/?url=images.credly.com/images/e3d0d18a-edd0-49b3-bad9-f09fffaa29e3/20-14376-SPLK-Certification-Badge-Youracclaim.com-101_Splunk-Core-Certified-Power-User.png&filt=greyscale" height="60" title="Splunk Power User">
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/eCTHPv3-2b2b2b?style=flat-square&labelColor=1a1a1a&color=1a1a1a" height="26" title="eCTHPv3">
+&nbsp;&nbsp;
+<img src="https://images.weserv.nl/?url=images.credly.com/images/e78adea1-f60b-4991-b5d5-3427140c7c1d/image.png&filt=greyscale" height="60" title="HTB CDSA">
 
 </div>
-
-<div align="center"><sub>earned&nbsp;&nbsp;·&nbsp;&nbsp;in progress&nbsp;&nbsp;·&nbsp;&nbsp;roadmap</sub></div>
 
 <br>
 
