@@ -22,13 +22,13 @@
 &nbsp;&nbsp;
 <img src="https://images.credly.com/images/dcd99b5b-da24-40a6-9364-62126d590c37/blob" height="68" title="CySA+">
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/eCIR-36F9C1?style=flat-square&labelColor=0d0d0d&color=0d0d0d" height="24" title="eCIR - in progress">
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<img src="assets/ecir.png" height="68" title="eCIR - in progress">
+&nbsp;&nbsp;
 <img src="https://images.weserv.nl/?url=images.credly.com/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png&filt=greyscale" height="56" title="CCNA - roadmap">
 &nbsp;&nbsp;
 <img src="https://images.weserv.nl/?url=images.credly.com/images/e3d0d18a-edd0-49b3-bad9-f09fffaa29e3/20-14376-SPLK-Certification-Badge-Youracclaim.com-101_Splunk-Core-Certified-Power-User.png&filt=greyscale" height="56" title="Splunk Power User - roadmap">
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/eCTHPv3-2b2b2b?style=flat-square&labelColor=1a1a1a&color=1a1a1a" height="24" title="eCTHPv3 - roadmap">
+<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/ecthpv3.png&filt=greyscale" height="56" title="eCTHPv3 - roadmap">
 &nbsp;&nbsp;
 <img src="https://images.weserv.nl/?url=images.credly.com/images/e78adea1-f60b-4991-b5d5-3427140c7c1d/image.png&filt=greyscale" height="56" title="HTB CDSA - roadmap">
 
