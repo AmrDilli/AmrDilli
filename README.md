@@ -1,145 +1,87 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=AMR&fontSize=70&fontColor=00ff41&fontAlignY=35&desc=SOC%20Analyst%20%7C%20Threat%20Detection%20%26%20Incident%20Response&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<br>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=whoami+%3E+cybersecurity+analyst;grep+-r+%22threats%22+.%2F*;tail+-f+%2Fvar%2Flog%2Fsoc_career.log;status%3A+actively+hunting+opportunities" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=36F9C1&center=true&vCenter=true&width=520&height=40&letterSpacing=1px&lines=amr+%2F%2F+security+analyst" alt="Typing SVG" />
+
+<sub>SOC · Threat Detection · Incident Response · DFIR</sub>
+
+<br><br>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
+
+<br>
+
+### certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Security+-36F9C1?style=flat-square&logoColor=black&labelColor=36F9C1" height="30">
+<img src="https://img.shields.io/badge/CySA+-36F9C1?style=flat-square&logoColor=black&labelColor=36F9C1" height="30">
+<img src="https://img.shields.io/badge/eCIR-in_progress-1a1a1a?style=flat-square&color=36F9C1&labelColor=0d0d0d" height="30">
+
+&nbsp;&nbsp;|&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/CCNA-2b2b2b?style=flat-square&logo=cisco&logoColor=808080" height="30">
+<img src="https://img.shields.io/badge/Splunk_Power_User-2b2b2b?style=flat-square&logo=splunk&logoColor=808080" height="30">
+<img src="https://img.shields.io/badge/eCTHPv3-2b2b2b?style=flat-square&logoColor=808080" height="30">
+<img src="https://img.shields.io/badge/HTB_CDSA-2b2b2b?style=flat-square&logo=hackthebox&logoColor=808080" height="30">
+
+</div>
+
+<div align="center"><sub>earned&nbsp;&nbsp;·&nbsp;&nbsp;in progress&nbsp;&nbsp;·&nbsp;&nbsp;roadmap</sub></div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
+
+<br>
+
+### sentinelai
+
+AI-powered SOC triage platform · Python / FastAPI / React
+
+```
+34 detectors  →  ~50 MITRE ATT&CK techniques mapped
+19 endpoints  →  sub-60ms processing pipeline
+enrichment    →  AbuseIPDB + VirusTotal, automated
+validated     →  22-sample detection corpus
+```
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
+
+<br>
+
+### stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,fastapi,react,linux,git,docker,bash&theme=dark&perline=7" />
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&hide_title=true&theme=dark&bg_color=0d0d0d&text_color=c9c9c9&icon_color=36F9C1&title_color=36F9C1" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0d0d0d&stroke=0d0d0d&ring=36F9C1&fire=36F9C1&currStreakLabel=36F9C1&sideLabels=c9c9c9&currStreakNum=c9c9c9&sideNums=c9c9c9&dates=707070" width="49%" />
 
 </div>
 
 <br>
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### `~/whoami`
-
-```yaml
-name: Amr
-role: SOC / MDR Analyst
-based_in: Saudi Arabia
-focus: Threat Detection · Incident Response · DFIR
-languages: [Arabic (native), English (fluent - IELTS 7.0)]
-mindset: "detect early, respond faster, learn always"
-```
-
-I'm a Computer & Network Engineering graduate (ranked 2nd in class,
-with honors) building a career in the SOC → DFIR pipeline. I like
-turning raw logs into actual answers — currently deep in incident
-response methodology and threat hunting.
-
-</td>
-<td width="40%" valign="top" align="center">
-
-```
-   ┌─────────────────────┐
-   │  [!] ALERT TRIAGED   │
-   │  sev: high            │
-   │  status: contained    │
-   │  analyst: amr          │
-   └─────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
----
-
-### `~/certifications`
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
 
 <div align="center">
+<br>
 
-<img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white" />
-<img src="https://img.shields.io/badge/CompTIA-CySA%2B-red?style=for-the-badge&logo=comptia&logoColor=white" />
-<img src="https://img.shields.io/badge/eCIR-in%20progress-yellow?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/linkedin-0d0d0d?style=flat-square&logo=linkedin&logoColor=36F9C1" height="28"></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/email-0d0d0d?style=flat-square&logo=gmail&logoColor=36F9C1" height="28"></a>
 
 <br><br>
-
-<img src="https://img.shields.io/badge/Kaspersky%20x%20Tuwaiq-Cybersecurity%20Bootcamp-0078D4?style=flat-square&logo=kaspersky&logoColor=white" />
-<img src="https://img.shields.io/badge/IELTS-7.0-4B0082?style=flat-square" />
+<sub>views: <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=36F9C1&style=flat&label=" height="14"></sub>
 
 </div>
-
-**Certification roadmap:** `eCIR` → `eCTHPv3` → `Splunk Power User` → `CCNA` → `HTB CDSA`
-
----
-
-### `~/featured-project`
-
-<div align="center">
-
-<a href="#">
-  <img src="https://img.shields.io/badge/SentinelAI-AI--Powered%20SOC%20Triage%20Platform-00ff41?style=for-the-badge&logo=python&logoColor=black" />
-</a>
-
-</div>
-
-> AI-driven SOC triage engine built with **Python, FastAPI, React**
-> - 🎯 34 detectors mapped to ~50 MITRE ATT&CK techniques
-> - ⚡ Sub-60ms processing pipeline (19 FastAPI endpoints)
-> - 🔗 Automated enrichment via AbuseIPDB + VirusTotal APIs
-> - ✅ Validated on a 22-sample detection corpus
-
-<div align="center">
-<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-mapped-red?style=flat-square&logo=mitre&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-</div>
-
----
-
-### `~/toolkit`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,react,linux,git,docker,bash&theme=dark" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Volatility-2B2B2B?style=flat-square" />
-<img src="https://img.shields.io/badge/Autopsy-0C0C0C?style=flat-square" />
-<img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white" />
-<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-C41E3A?style=flat-square" />
-<img src="https://img.shields.io/badge/IDA%20Free-6D0E0E?style=flat-square" />
-<img src="https://img.shields.io/badge/x64dbg-1E1E1E?style=flat-square" />
-
-</div>
-
----
-
-### `~/github-stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=highcontrast&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true" width="48%" />
-
-</div>
-
----
-
-### `~/connect`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00ff41&style=flat" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%"/>
